@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bygame</string>
+
+    <string name="tv_switch_more">请切换网络重试或系统升级维护中（升级进度详见PC官网）。</string>
+    <string name="tv_no_network">手机网络无连接，请检查手机网络或者切换网络。</string>
+    <string name="tv_examine_network">请检查手机网络</string>
+    <string name="now_loading_center">正在加载中</string>
+    <string name="tv_no_more">没有更多了</string>
+    <string name="savelocally">已保存到本地</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="no_network">当前无网络</string>
+    <string name="parse_error">解析异常</string>
+    <string name="login_invalid">登录失效，请重新登录！</string>
+    <string name="no_data">暂无数据</string>
+</resources>
